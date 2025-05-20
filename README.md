@@ -3,6 +3,9 @@
 
 [點此處可以下載](https://github.com/Potol9499/Clean-windows/releases/tag/Clea_windows_v0.01)
 
+> [!CAUTION]
+> 請注意他只支持 Winodws10 以上版本 以下版本尚未測試!
+
 該程式特點:
 ```
 1.極其簡單你不需要安裝開箱即可使用

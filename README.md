@@ -7,7 +7,7 @@
 ```
 1.極其簡單你不需要安裝開箱即可使用
 2.沒有連線網路不需要擔心資料洩漏
-3.他有GUI讓您方便超做
+3.他有GUI讓您方便操做
 4.帶有管理員權限檢測
 ```
 ![NET8.0](https://raw.githubusercontent.com/Potol9499/Clean-windows/refs/heads/main/img/3.png)

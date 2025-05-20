@@ -1,0 +1,5 @@
+C:\Users\sss_yyy_Potol\Desktop\Clean windows.exe
+C:\Users\sss_yyy_Potol\Desktop\Clean windows.dll
+C:\Users\sss_yyy_Potol\Desktop\Clean windows.deps.json
+C:\Users\sss_yyy_Potol\Desktop\Clean windows.runtimeconfig.json
+C:\Users\sss_yyy_Potol\Desktop\Clean windows.pdb

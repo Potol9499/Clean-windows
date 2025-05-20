@@ -1,7 +1,7 @@
 
 ## 一款簡單到不行的windows緩存清理工具帶有GUI
 
-
+[點次處可以下載](https://github.com/Potol9499/Clean-windows/releases/tag/Clea_windows_v0.01)
 
 該程式特點:
 ```

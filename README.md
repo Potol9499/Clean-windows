@@ -1,7 +1,7 @@
 
 ## 一款簡單到不行的windows緩存清理工具帶有GUI
 
-[點此處可以下載](https://github.com/Potol9499/Clean-windows/releases/tag/Clea_windows_v0.01)
+[點此處可以下載](https://github.com/Potol9499/Clean-windows/releases/tag/Clean_windows_v0.02)
 
 > [!CAUTION]
 > 請注意他只支持 Winodws10 以上版本 以下版本尚未測試!

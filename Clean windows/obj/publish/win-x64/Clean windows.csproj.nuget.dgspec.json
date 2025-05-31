@@ -56,6 +56,10 @@
               "target": "Package",
               "version": "[8.0.14, )",
               "autoReferenced": true
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[9.0.5, )"
             }
           },
           "imports": [

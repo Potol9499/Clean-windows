@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "tMjnnLCI6MY=",
+  "dgSpecHash": "EH4bg9rywcE=",
   "success": true,
   "projectFilePath": "C:\\Users\\sss_yyy_Potol\\Desktop\\新增資料夾\\Clean windows\\Clean windows\\Clean windows.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.5\\microsoft.win32.systemevents.9.0.5.nupkg.sha512",
+    "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\system.drawing.common\\9.0.5\\system.drawing.common.9.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

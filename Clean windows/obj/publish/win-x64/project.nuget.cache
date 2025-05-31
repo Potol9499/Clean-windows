@@ -1,10 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "h8IuARd/jpU=",
+  "dgSpecHash": "iEpaMCIeAls=",
   "success": true,
   "projectFilePath": "C:\\Users\\sss_yyy_Potol\\Desktop\\新增資料夾\\Clean windows\\Clean windows\\Clean windows.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.14\\microsoft.net.illink.tasks.8.0.14.nupkg.sha512",
+    "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.5\\microsoft.win32.systemevents.9.0.5.nupkg.sha512",
+    "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\system.drawing.common\\9.0.5\\system.drawing.common.9.0.5.nupkg.sha512",
     "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.14\\microsoft.netcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
     "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.14.nupkg.sha512",
     "C:\\Users\\sss_yyy_Potol\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.14\\microsoft.aspnetcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
